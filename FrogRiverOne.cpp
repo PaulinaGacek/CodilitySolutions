@@ -1,4 +1,4 @@
-// Frog River
+// Lesson 4 - Counting elements - Frog River
 // Assessed time complexity - O(N)
 // Scored for 100%
 
